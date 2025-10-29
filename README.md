@@ -59,8 +59,8 @@ Strong: Great job! Your password is strong.
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+Jhonny Dixit
+[GitHub Profile](https://github.com/Jhonny-Dixit)
 
 ---
 
